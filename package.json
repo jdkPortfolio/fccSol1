@@ -12,7 +12,7 @@
     "url": "https://github.com/jdkPortfolio/fccSol1.git"
   },
   "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" ],
+  "keywords": [ "descriptive", "related", "words" , "freecodecamp"],
   "version": "1.0.0",
   "devDependencies": {},
   "author": "Duncan Johanne",
